@@ -12,7 +12,7 @@ Welcome to the **Small Projects** repository! This collection contains various s
    - A simple simulation of a digital marketplace where users can browse, add items to a cart, and simulate a purchase transaction. This project is designed to demonstrate basic object-oriented programming concepts.
 
 3. **Encrypt and Decrypt Messages**
-   - A program that allows users to input messages and either encrypt or decrypt them using a simple encryption algorithm (such as Caesar cipher). This project shows how to handle string manipulation and basic cryptography in Java.
+   - A program that allows users to input messages and either encrypt or decrypt them using a simple encryption algorithm . This project shows how to handle string manipulation and basic cryptography in Java.
 
 4. **HalfAdder in Java**
    - This project implements a Half Adder, a basic building block of digital circuits, using Java. It demonstrates how to handle binary operations and the concept of logic gates in programming.
